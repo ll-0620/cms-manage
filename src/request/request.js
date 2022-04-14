@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // 配置項
 const axiosOption = {
-    baseURL: 'http://47.93.114.103:6688/manage',
+    baseURL: '/api',
     timeout: 5000
 }
 

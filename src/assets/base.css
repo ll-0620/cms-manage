@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+body {
+  font-family: "微软雅黑";
+  font-size: 14px;
+  color: #333;
+  background: #efefef;
+}
+
+header{
+  height: 70px;
+  background-color: #333;
+  padding: 0 20px;
+}
+
+footer{
+  height: 70px;
+  background-color: #333;
+  color: #efefef;
+  text-align: center;
+  line-height: 70px;
+}
+
